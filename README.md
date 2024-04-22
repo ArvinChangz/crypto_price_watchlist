@@ -1,6 +1,8 @@
-## Live Demo
+# Instructions
+- Realtime update of spot prices of BTC and ETH
+- WebSocket Client
 
-[Click Me!](https://f2ewl-chiachengz0227-chang-arvin-20240411-5m83z4e1x.vercel.app)
+[Click Me!](https://crypto-price-watchlist.vercel.app/)
 
 # Getting Started with Create React App
 
